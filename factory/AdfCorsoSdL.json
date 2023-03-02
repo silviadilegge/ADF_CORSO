@@ -1,0 +1,9 @@
+{
+	"name": "AdfCorsoSdL",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0223ee78-86cf-4714-bd67-a314d500cbf1",
+		"tenantId": "cf36141c-ddd7-45a7-b073-111f66d0b30c"
+	}
+}
